@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Programming,OOP,DSA,Go,Javascript**
 
-- 📫 How to reach me **2215151139@uits.edu.bd**
+- 📫 How to reach me **zihadbepari1139@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zihad-bepari-313411329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zihad-bepari-313411329/" height="30" width="40" /></a>
