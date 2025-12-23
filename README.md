@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zihad-bepari&label=Profile%20views&color=0e75b6&style=flat" alt="zihad-bepari" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Computer+Science+Student+%7C+Problem+Solver+;+Software+Engineer+%7C+Critical+Thinker+%7C+Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Computer+Science+Student+%7C+Problem+Solver+;Software+Engineer+%7C+Critical+Thinker+%7C+Backend+Developer" />
 </p>
 
 
